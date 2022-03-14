@@ -4,3 +4,4 @@
 - Currently doing a postgraduate course in Full-Stack Web Technologies at UPC School.
 - Contact: talayaalba@gmail.com
 - LinkedIn: https://www.linkedin.com/in/albatalaya/
+- Personal portfolio: https://albatalaya.github.io/
